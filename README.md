@@ -9,4 +9,4 @@ On peut également suprimmer les tâches une fois qu'elle ont été réaliser en
 
 Anis AYOUDJ 
 Louis MORVAN 
-Théo FOUSSIER 
+Théo FOUASSIER 
